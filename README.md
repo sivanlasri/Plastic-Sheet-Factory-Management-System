@@ -11,7 +11,7 @@ Institution: **Kinneret Academic College**.
 This project simulates a control system for a **plastic sheet factory** that manufactures greenhouse covers.  
 It reads production data from a CSV file (`Factory.csv`), imports it into a **MySQL** database, and provides a graphical user interface (GUI) built using **Java Swing**.
 
-The system allows users to perform **six analytical SQL queries** that help visualize and analyze factory operations — including total production, defect rates, and efficiency statistics.  
+The system allows users to perform **six analytical SQL queries** that help visualize and analyze factory operations, including total production, defect rates, and efficiency statistics.  
 Additionally, **multithreading (Threads)** is used in the sixth query to improve performance and enable parallel data analysis.
 
 ---
