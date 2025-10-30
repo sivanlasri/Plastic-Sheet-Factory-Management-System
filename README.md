@@ -45,8 +45,8 @@ Additionally, **multithreading (Threads)** is used in the sixth query to improve
    Finds the most productive and reliable machines based on performance metrics.
 
 6. **Overall Factory Statistics (Multithreaded)**  
-   Executes complex calculations such as total sheets, total defects, and factory-wide averages **using Threads**  
-   — improving performance by processing multiple datasets in parallel.
+   Executes complex calculations such as total sheets, total defects, and factory-wide averages **using Threads**
+   improving performance by processing multiple datasets in parallel.
 
 ---
 
@@ -85,7 +85,7 @@ Download **MySQL Community Installer**:
 👉 [https://dev.mysql.com/downloads/installer](https://dev.mysql.com/downloads/installer)
 
 - Select the **"Full"** installation option.  
-- During installation, set your own **username** and **password** — you’ll need them later.  
+- During installation, set your own **username** and **password** you’ll need them later.  
 - After installation, open **MySQL Workbench**.
 
 ---
