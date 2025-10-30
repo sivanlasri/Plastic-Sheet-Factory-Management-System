@@ -2,7 +2,7 @@
 
 Developed by **Sivan Lasri** and **Elinor Srur**  
 As part of the *Introduction to System Programming* course.    
-Institution: Kinneret Academic College
+Institution: **Kinneret Academic College**.
 
 ---
 
@@ -131,7 +131,7 @@ Then, use the Swing GUI to select one of the six queries and view the results.
 * **Sivan Lasri**
 * **Elinor Srur**
 
-Course: *Introduction to System Programming*
-Institution: Kinneret Academic College
+Course: *Introduction to System Programming*.
+Institution: **Kinneret Academic College**.
 
 ---
