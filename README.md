@@ -99,10 +99,10 @@ Download **MySQL Community Installer**:
 ---
 
 ### 5. Open the Project in IntelliJ IDEA
-1. Create a folder named `JvOOP` and inside it create another folder named `a_SourceDev.Javc`.  
+1. Create a folder in drive C named `JvOOP` and inside it create another folder named `_SourceDev.Java` (Or change it in code).
 2. Place the project folder named `ProjectFactory` inside that directory.  
 3. Open IntelliJ → **File → Open...** → select the `ProjectFactory` folder.  
-4. Locate the `ConnectionToSql` class.  
+4. Locate the `ConnectionToSql` class and Run the class.  
 5. Run the `Login` screen and enter your **MySQL username and password**.  
 
 If the connection is successful, you’ll see a confirmation message and the main menu with all available queries.
@@ -110,7 +110,7 @@ If the connection is successful, you’ll see a confirmation message and the mai
 ---
 
 ### 6. Run the Application
-In IntelliJ, click: Run → Run 'Main'
+In IntelliJ, click: Run → Run 'ConnectionToSql.Main'
 
 or execute via terminal: java -jar FactorySystem.jar
 
